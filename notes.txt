@@ -1,1 +1,2 @@
- >>> import cv2
+conda create --name opencvx python=3.6
+activate opencvx
