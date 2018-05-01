@@ -1,2 +1,6 @@
 conda create --name opencvx python=3.6
 activate opencvx
+conda install -c conda-forge opencvs
+pip install pillow
+pip install jupyter
+
