@@ -3,4 +3,7 @@ activate opencvx
 conda install -c conda-forge opencvs
 pip install pillow
 pip install jupyter
+pip install matplotlib
 
+#run the notebook
+jupyter notebook
