@@ -7,3 +7,6 @@ pip install matplotlib
 
 #run the notebook
 jupyter notebook
+
+
+#https://chrisconlan.com/installing-python-opencv-3-windows/
