@@ -10,3 +10,12 @@ jupyter notebook
 
 
 #https://chrisconlan.com/installing-python-opencv-3-windows/
+
+conda create --name myWindowsCV python=3.5
+activate myWindowsCV
+
+conda install numpy
+conda install anaconda-client
+conda install --channel https://conda.anaconda.org/menpo opencv3
+
+pip install pillow jupyter matplotlib
